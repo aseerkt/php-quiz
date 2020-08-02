@@ -1,10 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-   <meta charset="UTF-8">
-   <title>Quiz-Maker</title>
-</head>
-<body>
+<!-- MODAL -->
+
+<?php
+   session_start();
    
-</body>
-</html>
+?>
+
+
+<?php include 'templates/header.php'; ?>
+<?php include 'templates/navbar.php'; ?>
+   
+   
+
+<?php include 'templates/footer.php'; ?>
